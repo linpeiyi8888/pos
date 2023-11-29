@@ -9,3 +9,6 @@
 - 點選「+」、「-」、「×」按鈕可新增、減少、刪除商品
 - 自動計算總金額
 - 送出訂單
+
+### 連結
+https://codepen.io/fttraeme-the-typescripter/pen/wvxdwbv?editors=1010
