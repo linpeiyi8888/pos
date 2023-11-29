@@ -1,0 +1,44 @@
+body {
+  background-image: url("https://i.pinimg.com/564x/1f/47/85/1f4785b06773bc33cbbb6cd87bf9ebc5.jpg");
+  background-size: cover;
+}
+
+h3 {
+  color: #eeaa88;
+}
+
+.card {
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+.card:hover {
+  background-color: #fdf6f3;
+}
+
+li,
+p,
+h5,
+h3,
+.btn {
+  font-weight: bold;
+}
+
+.list-group-item {
+  margin: 5px 0;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+.fa-circle-xmark {
+  color: red;
+}
+
+.fa-solid {
+  padding: 0px;
+  margin: 2px;
+}
+
+#quantity {
+  margin: 0 0 0 20px;
+}
