@@ -10,5 +10,5 @@
 - 自動計算總金額
 - 送出訂單
 
-### 連結
+### link
 https://codepen.io/fttraeme-the-typescripter/pen/wvxdwbv?editors=1010
